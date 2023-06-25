@@ -1,0 +1,5 @@
+package Hard
+
+
+type MahsulotTuri 
+}

@@ -1,20 +1,19 @@
-// package main
+package main
 
 
-// import "lesson/Hard"
+import "lesson/Hard"
 
-// func main()  {
-// 	flight:=Hard.Flight{
-// 		FlightNumber: "A213",
-// 		Source: "New-york",
-// 		Destination: "America",
-// 	}
-// 	Hard.AddPassenger("John")
-// 	Hard.AddPassenger("Jammy")
-// 	Hard.AddPassenger("Jek")
-// 	Hard.DisplayPassenger()
-// 	Hard.RemovePassenger("Jek")
-// 	Hard.DisplayPassenger()
+func main()  {
+	// flight:=Hard.Flight{
+	// 	FlightNumber: "A213",
+	// 	Source: "New-york",
+	// 	Destination: "America",
+	// 	Passengers: []string{"John"},
+	// }
+	// flight.AddPassenger("John")
+	// flight.DisplayPassenger()
+	// flight.RemovePassenger("Jek")
+	// flight.DisplayPassenger()
 
 
-// }
+}
